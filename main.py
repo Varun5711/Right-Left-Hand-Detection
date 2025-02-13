@@ -26,4 +26,4 @@ while True:
     
     cv2.imshow('Image',img)
     if cv2.waitKey(1) & 0xff==ord('q'):
-        break give me a readme for this python project (main.py is the filename)
+        break
