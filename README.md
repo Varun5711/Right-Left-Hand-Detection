@@ -63,5 +63,3 @@ python main.py
 📝 License
 
 This project is open-source. Feel free to modify and improve it! 🚀
-
-This will properly render in GitHub and Markdown viewers with the correct file structure, how-to-run steps, and explanations. 🚀
